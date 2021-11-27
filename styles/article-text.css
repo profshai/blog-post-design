@@ -26,7 +26,7 @@ h2 {
 h3 {
   font: 400 24px "Roboto";
   color: var(--blue);
-  margin-bottom: 0px;
+  margin-bottom: 1.5rem;
 }
 
 p {
@@ -42,8 +42,9 @@ a {
 time {
  font: 900 20px/1.5 "Roboto";
  color: var(--blue);
- margin-top: 1.4rem;
+ margin-top: 2.4rem;
 }
+
 
 figcaption p {
   font: 400 16px"Roboto";
