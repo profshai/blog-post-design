@@ -42,6 +42,7 @@ a {
 time {
  font: 900 20px/1.5 "Roboto";
  color: var(--blue);
+ margin-top: 1.4rem;
 }
 
 figcaption p {
